@@ -1,6 +1,9 @@
 body{
-	margin-left: 10px;
-	margin-right: 10px;
+	max-width: 1420px;
+	margin-left:auto;
+        margin-right:auto;
+	/*margin-left: 10px;
+	margin-right: 10px;*/
 }
 
 #navegacion-top{

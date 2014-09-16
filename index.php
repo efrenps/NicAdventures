@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Amazing NicAdventures</title>
+	<title>Amazing Nicadventures</title>
 	<link rel="stylesheet" type="text/css" href="packages/awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="packages/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="packages/bootstrap/css/summernote.css">
