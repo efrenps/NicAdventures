@@ -23,7 +23,7 @@
 	<img id="imageRotate3" class="rotate" src="images/rotate/Edificios_Coloniales.png" alt="">
 
 	<div id="x-top" class="row">
-		<div class="col-md-3">
+		<div class="col-md-3 col-xs-4">
 			<img src="images/logo.png" style="max-width:80%;" />
 		</div>
 
