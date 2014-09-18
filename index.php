@@ -18,10 +18,15 @@
 	<script type="text/javascript" src="js/site.js"></script>
 </head>
 <body>
-	<div class="row" >
+	<img id="imageRotate1" class="rotate" src="images/rotate/Coyotepe_Masaya.png" alt="">
+	<img id="imageRotate2" class="rotate" src="images/rotate/Ometepe_Lancha.png" alt="">
+	<img id="imageRotate3" class="rotate" src="images/rotate/Edificios_Coloniales.png" alt="">
+
+	<div id="x-top" class="row">
 		<div class="col-md-3">
 			<img src="images/logo.png" style="max-width:80%;" />
 		</div>
+
 	</div>
 
 	<div id="navegacion-top" class="row">
@@ -79,32 +84,55 @@
 	<div class="row" id="paquetes">
 		<div class="col-md-3">
 			<label>GRANADA</label>
-			<img title="Ofertas y Promociones" src='images/granada.jpg' class="img-responsive" alt="Responsive image" />
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam alias eum culpa, cupiditate id molestiae voluptatibus debitis, unde recusandae minus aliquam mollitia fugit, impedit rerum nulla vel dolores harum quidem!</p>
-			 <br>
+			<img title="Ofertas y Promociones" src='images/granada/Calles_Granada02.png' class="img-responsive" alt="Responsive image" />
+			<p>Una vez que lleguemos a Granada nos hospedaremos en el Hotel El Almirante (www.hotelelalmirante.com),
+			 después de descansar nos trasladaremos a la Calle de la Calzada, ahí disfrutaremos de mucho
+			  entretenimiento como Bar-Restaurantes, discotecas, bailes típicos y un sinfin de diversiones 
+			  nocturnas... </p>
+			 <a href="" class="x-button">Leer mas</a>
+			 <label for=""></label>
 		</div>
 		<div class="col-md-3">
 			<label>OMETEPE</label>
-			<img title="Ofertas y Promociones" src='images/granada.jpg' class="img-responsive" alt="Responsive image" />
-			 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam alias eum culpa, cupiditate id molestiae voluptatibus debitis, unde recusandae minus aliquam mollitia fugit, impedit rerum nulla vel dolores harum quidem!</p>
-			 <br>
+			<img title="Ofertas y Promociones" src='images/ometepe/Ometepe02.png' class="img-responsive" alt="Responsive image" />
+			 <p>WOW Ometepe, definitivamente es el paraíso en Nicaragua, en esta isla 
+			 se encuentran dos de los mas lindos paisajes del  país, esta isla esta
+			  compuesta por dos volcanes, el Madera y el Concepción, los que se les
+			   puede observar en el trayecto al Hotel Villa Paraíso. ya estando en el hotel 
+			   podemos reservar tours para el siguiente... </p>
+			 <a href="" class="x-button">Leer mas</a>
 		</div>
 		<div class="col-md-3">
 			<label>SAN JUAN DEL SUR</label>
-			<img title="Ofertas y Promociones" src='images/granada.jpg' class="img-responsive" alt="Responsive image" />
-			 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam alias eum culpa, cupiditate id molestiae voluptatibus debitis, unde recusandae minus aliquam mollitia fugit, impedit rerum nulla vel dolores harum quidem!</p>
-			 <br>
+			<img title="Ofertas y Promociones" src='images/sanjuandelsur/San_Juan_Del_Sur02.png' class="img-responsive" alt="Responsive image" />
+			 <p>Llegando a San Juan Del Sur nos dirigiremos directo al Hotel Azul Pitahaya 
+			www.hotelazulsanjuan.com, llegando al hotel nos relajaremos un poco, después saldremos a caminar
+ 			a la calle Paseo Del Rey en la cual se encuentran muchos restaurantes y bares 
+ 			donde se puede disfrutar la vida nocturna de... </p>
+			 <a href="" class="x-button">Leer mas</a>
 		</div>
 		<div class="col-md-3">
 			<label>CIUDAD LEON</label>
-			<img title="Ofertas y Promociones" src='images/granada.jpg' class="img-responsive" alt="Responsive image" />
-			 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam alias eum culpa, cupiditate id molestiae voluptatibus debitis, unde recusandae minus aliquam mollitia fugit, impedit rerum nulla vel dolores harum quidem!</p>
-			 <br>
+			<img title="Ofertas y Promociones" src='images/leon/Catedral_Leon05.png' class="img-responsive" alt="Responsive image" />
+			<p>    El departamento de León se caracteriza por tener paisajes espectaculares, 
+			hermosas playas, bellos volcanes y un sinnúmero de destinos atractivos poco explorados.
+			 En este departamento se ubican cuatro volcanes de la Cordillera de Los Maribios y además
+			  se encuentran bellas playas, pueblos históricos... </p>
+			<a href="" class="x-button">Leer mas</a>			
 		</div>
 	</div>
 
 	<footer class="row" style="background-color:#14b1ff; color:white; padding:1%; margin-bottom:5px;">
-		Navegacion
+		<div class="col-md-2"></div>
+		<div class="col-md-8">
+			<div class="row" id="navegacion-bottom">
+				<div class="col-md-3 item"><a href="">Quienes Somos</a></div>
+				<div class="col-md-3 item"><a href="">Eventos</a></div>
+				<div class="col-md-3 item"><a href="">Destinos</a></div>
+				<div class="col-md-3 item"><a href="">Contactenos</a></div>
+			</div>
+		</div>
+		<div class="col-md-2"></div>
 	</footer>
 
 	<script type="text/javascript">
