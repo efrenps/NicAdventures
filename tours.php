@@ -128,10 +128,11 @@
 			    <div id="collapseTwo" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        	Masaya volcano it has an area of 54 km2, includes 2 volcanoes and 5 craters, as well as a range of evelations between 100 and 630 meters above sea level;  it’s the only volcano in the western hemisphere where you are able to drive to the rim.
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Day tour starting at U$ 25.00 p/p (min.4 pax) Departure 9am / Duration 4hrs.
+Nigth Tours starting at U$ 35.00 p/p (min.6 pax) Departure 3pm/Duration 6hrs.
 			        </p>
 			      </div>
 			    </div>
@@ -149,10 +150,10 @@
 			    <div id="collapseThree" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        	The Mombacho volcano nature reserve it is an extinct volcano, the last eruption occurred in 1570. The highest regions of the volcano is home to a cloud forest and deward forest, the volcano has fantastic views of lake Nicaragua, the city of Granada and the isles of Granada.
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Tour starting at U$ 37.00 p/p. Departure 9am / Duration 5hrs.
 			        </p>
 			      </div>
 			    </div>
@@ -170,10 +171,10 @@
 			    <div id="collapseFour" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        Cerro Negro is an active volcano near Leon, its approximately 162 years old, the youngest volcano in the Central America. Its last eruption was in 1999. Cerro Negro means “black hill”. The volcano is composed of blacks rock, its slopes of black pebbles and gravel.
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Tour starting at U$ 65.00 p/p. Departure 6am / Duration aprox. 8hrs.
 			        </p>
 			      </div>
 			    </div>
@@ -191,10 +192,10 @@
 			    <div id="collapseFive" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        Granada was founded in 1524 by Francisco Hernandez de Cordoba ostensibly the first European city in mainland America. The city of Granada was not only the settlement of the conquest, but also a city registered in official records of the crown of Aragon, and the kingdom of castile in spain. Granada is also known as LA GRAN SULTANA, in reflection of its Moorish and Andalusian appearance.
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        Tour starting at U$ 30.00 p/p. Departure 9am / Duration aprox. 6hrs.	
 			        </p>
 			      </div>
 			    </div>
@@ -212,10 +213,10 @@
 			    <div id="collapseSix" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        	Leon is the second largest city in Nicaragua, it was founded by the Spaniards as Leon Santiago de los Caballeros and rivals Granada, Nicaragua, in the number of historic Spanish colonial churches, secular buildings, and private residences.
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Tour starting at U$ 40.00 p/p. Departure 9am / Duration aprox. 8hrs.
 			        </p>
 			      </div>
 			    </div>
@@ -233,10 +234,10 @@
 			    <div id="collapseSeven" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        	San juan del Sur is a coastal town on the pacific ocean, it is located 87 miles south of Managua. San Juan del Sur is popular among surfers and is a vacation spot for many Nicaraguan Families and foreing tourists. San Juan del Sur was a popular resting place for gold prospectors headed to California in the 1850s.
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Tour starting at U$ 45.00 p/p. Departure 8am / Duration aprox. 9hrs.
 			        </p>
 			      </div>
 			    </div>
@@ -253,10 +254,10 @@
 			    <div id="collapseEight" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        	San Carlos is jungle, lake, river, art and history. This municipality has various attractions. Its center is the city of San Carlos, in which the visitor will find multiple places to visit. The los guatuzos Natural reserve, situated nearby, is home to a great, diversity of plants, animals and insect. There and many tours you can take from San Carlos.
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Transportation to San Carlos (one way) 1-10 pax.  U$ 240.00 
 			        </p>
 			      </div>
 			    </div>
@@ -279,10 +280,10 @@
 			    <div id="collapseNine" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        	Pick up from hotel, head to the city of Catarina then Mombacho Volcano tour.
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Tour starting at U$ 40.00 / Departure 9:30 am / Duration 7hrs.
 			        </p>
 			      </div>
 			    </div>
@@ -300,10 +301,10 @@
 			    <div id="collapseTen" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        	Pick up from hotel, city of Granada Tour and boat ride in the Isles (Las Isletas) of Granada, then we head to Masaya Volcano for an impressive night tour.
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Tour starting at U$ 40.00 / Departure 9:30 am / Duration 10hrs.
 			        </p>
 			      </div>
 			    </div>
@@ -321,10 +322,10 @@
 			    <div id="collapseEleven" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        	Pick up from the hotel, head to the city of San Juan del Sur, then Take the canopy tour.
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Tour starting at U$ 50.00 / Departure 8 am / Duration 11hrs.
 			        </p>
 			      </div>
 			    </div>
@@ -342,10 +343,10 @@
 			    <div id="collapseTwelve" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        	Pick up from hotel, arrive at Granada, tour of city of Granada, boat ride through Las Isletas.
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Tour starting at U$ 35.00 / Departure 9 am / Duration 7hrs.
 			        </p>
 			      </div>
 			    </div>
@@ -363,10 +364,16 @@
 			    <div id="collapseThirteen" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        	<li><span>Day 1:</span> Arrive in Nicaragua, head to city of Leon.</li>
+						<li><span>Day 2:</span> San Cristobal Volcano Tour.</li>
+						<li><span>Day 3:</span> Cerro Negro Volcano Tour.</li>
+						<li><span>Day 4:</span> Momotombo Volcano Tour an head back to Managua.</li>
+						<li><span>Day 5:</span> Masaya Volcano night tour, then head to the city of Granada.</li>
+						<li><span>Day 6:</span> Mombacho Volcano tour, then head back to Managua.</li>
+						<li><span>Day 7:</span> Depart Nicaragua.</li>
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Tour starting at U$ 998.50 p.person based on double occupancy (min. 2 per).
 			        </p>
 			      </div>
 			    </div>
@@ -384,10 +391,16 @@
 			    <div id="collapseFourteen" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	
+			        	<li><span>Day 1:</span> Arrive in Nicaragua, stay in Managua, city tour depending on arrival time.</li>
+						<li><span>Day 2:</span> City of Leon tour.</li>
+						<li><span>Day 3:</span> Masaya Volcano tour and Catarina City tour, head to Granada for the night.</li>
+						<li><span>Day 4:</span> Granada city tour. The Isles city tour (Las Isletas), then head to Ometepe Island on Ferry and spend the night.</li>
+						<li><span>Day 5:</span> Ometepe (several tours to choose from in ometepe) Head to the city of San Juan del Sur and spend the night.</li>
+						<li><span>Day 6:</span> Day in San Juan del Sur, depart at 6 pm, head back to Managua.</li>
+						<li><span>Day 7:</span> Depart Nicaragua.</li>
 			        </p>
 			        <p class="panel-text2">
-			        	
+			        	Tour starting at U$ 915.75 p.person based on double occupancy (min. 2 per).
 			        </p>
 			      </div>
 			    </div>
