@@ -24,7 +24,7 @@
 
 	<div id="x-top" class="row">
 		<div class="col-md-3 col-xs-4">
-			<img src="images/logo.png" style="max-width:80%;" />
+			<a href="index.php"><img src="images/logo.png" style="max-width:80%;"/></a>
 		</div>
 
 	</div>
@@ -56,14 +56,13 @@
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav">
-						<li class="activa"><a href="#">Quienes Somos</a></li>
-						<li><a href="#">Eventos</a></li>
-						<li><a href="#">Destinos</a></li>
-						<li><a href="#">Contactenos</a></li>
+						<li class="activa"><a href="index.php">Home</a></li>
+						<li><a href="about.php">About Us</a></li>
+						<li><a href="tours.php">Tours</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
 					
 					<ul class="nav navbar-nav navbar-right iconos">
-						<li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
 						<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>						
 					</ul>
 				</div><!-- /.navbar-collapse -->
@@ -75,8 +74,13 @@
 	<div class="row ">
 		<div class="col-md-12 remove-padding">
 			<ul id="banner">
-				<li><img src="images/anuncio01.jpg" /></li>
-				<li><img src="images/anuncio02.jpg" /></li>	  
+				<li><img src="images/anuncios/anuncio01.jpg" /></li>
+				<li><img src="images/anuncios/anuncio02.jpg" /></li>
+				<li><img src="images/anuncios/anuncio03.jpg" /></li>
+				<li><img src="images/anuncios/anuncio04.jpg" /></li>
+				<li><img src="images/anuncios/anuncio05.jpg" /></li>
+				<li><img src="images/anuncios/anuncio06.jpg" /></li>
+				<li><img src="images/anuncios/anuncio07.jpg" /></li>	  
 			</ul>
 		</div>
 	</div>
@@ -85,40 +89,37 @@
 		<div class="col-md-3">
 			<label>GRANADA</label>
 			<img title="Ofertas y Promociones" src='images/granada/Calles_Granada02.png' class="img-responsive" alt="Responsive image" />
-			<p>Una vez que lleguemos a Granada nos hospedaremos en el Hotel El Almirante (www.hotelelalmirante.com),
-			 después de descansar nos trasladaremos a la Calle de la Calzada, ahí disfrutaremos de mucho
-			  entretenimiento como Bar-Restaurantes, discotecas, bailes típicos y un sinfin de diversiones 
-			  nocturnas... </p>
-			 <a href="" class="x-button">Leer mas</a>
+			<p>Was founded in 1524 by Francisco Hernandez de Cordoba ostensibly the first European
+			 city in mainland America. The city of Granada was not only the settlement of the conquest,
+			  but also a city registered in official records of the crown of Aragon...</p>
+			 <a href="tours.php" class="x-button">Read more</a>
 			 <label for=""></label>
 		</div>
 		<div class="col-md-3">
 			<label>OMETEPE</label>
 			<img title="Ofertas y Promociones" src='images/ometepe/Ometepe02.png' class="img-responsive" alt="Responsive image" />
-			 <p>WOW Ometepe, definitivamente es el paraíso en Nicaragua, en esta isla 
-			 se encuentran dos de los mas lindos paisajes del  país, esta isla esta
-			  compuesta por dos volcanes, el Madera y el Concepción, los que se les
-			   puede observar en el trayecto al Hotel Villa Paraíso. ya estando en el hotel 
-			   podemos reservar tours para el siguiente... </p>
-			 <a href="" class="x-button">Leer mas</a>
+			<p>WOW Ometepe is definitely paradise in Nicaragua, this island are two of the most
+			 beautiful scenery in the country, this island is made up of two volcanoes, Concepción
+			  and Madera, which they can see on the way to Hotel Villa Paradise
+			  and being at the hotel... </p>
+			 <a href="tours.php" class="x-button">Read more</a>
 		</div>
 		<div class="col-md-3">
 			<label>SAN JUAN DEL SUR</label>
 			<img title="Ofertas y Promociones" src='images/sanjuandelsur/San_Juan_Del_Sur02.png' class="img-responsive" alt="Responsive image" />
-			 <p>Llegando a San Juan Del Sur nos dirigiremos directo al Hotel Azul Pitahaya 
-			www.hotelazulsanjuan.com, llegando al hotel nos relajaremos un poco, después saldremos a caminar
- 			a la calle Paseo Del Rey en la cual se encuentran muchos restaurantes y bares 
- 			donde se puede disfrutar la vida nocturna de... </p>
-			 <a href="" class="x-button">Leer mas</a>
+			<p>Is a coastal town on the pacific ocean, it is located 87 miles south of Managua.
+			 San Juan del Sur is popular among surfers and is a vacation spot for many Nicaraguan
+			  Families and foreing tourists. San Juan del Sur was a popular resting place for gold
+			   prospectors...  </p>
+			 <a href="tours.php" class="x-button">Read more</a>
 		</div>
 		<div class="col-md-3">
-			<label>CIUDAD LEON</label>
+			<label>LEON CITY</label>
 			<img title="Ofertas y Promociones" src='images/leon/Catedral_Leon05.png' class="img-responsive" alt="Responsive image" />
-			<p>    El departamento de León se caracteriza por tener paisajes espectaculares, 
-			hermosas playas, bellos volcanes y un sinnúmero de destinos atractivos poco explorados.
-			 En este departamento se ubican cuatro volcanes de la Cordillera de Los Maribios y además
-			  se encuentran bellas playas, pueblos históricos... </p>
-			<a href="" class="x-button">Leer mas</a>			
+			<p>Is the second largest city in Nicaragua, it was founded by the Spaniards as Leon 
+			Santiago de los Caballeros and rivals Granada, Nicaragua, in the number of historic
+			 Spanish colonial churches, secular buildings, and private residences...</p>
+			<a href="tours.php" class="x-button">Read more</a>			
 		</div>
 	</div>
 
@@ -126,10 +127,10 @@
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
 			<div class="row" id="navegacion-bottom">
-				<div class="col-md-3 item"><a href="">Quienes Somos</a></div>
-				<div class="col-md-3 item"><a href="">Eventos</a></div>
-				<div class="col-md-3 item"><a href="">Destinos</a></div>
-				<div class="col-md-3 item"><a href="">Contactenos</a></div>
+				<div class="col-md-3 item"><a href="index.php">Home</a></div>
+				<div class="col-md-3 item"><a href="about.php">About Us</a></div>
+				<div class="col-md-3 item"><a href="tours.php">Tours</a></div>
+				<div class="col-md-3 item"><a href="contact.php">Contact Us</a></div>
 			</div>
 		</div>
 		<div class="col-md-2"></div>
