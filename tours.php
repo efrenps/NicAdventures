@@ -70,24 +70,15 @@
 		</nav>
 	</div>
 	
-
-	<div class="row ">
-		<div class="col-md-12 remove-padding">
-			classic tours
-		</div>
-	</div>
-
 	<div class="row" id="tours">
-		<div class="col-md-4" id="tours-picture">
-			<img src="images/anuncios/anuncio01.jpg" class="img-responsive" alt="Responsive image"/>
-			<img src="images/anuncios/anuncio02.jpg" class="img-responsive" alt="Responsive image"/>
-			<img src="images/anuncios/anuncio03.jpg" class="img-responsive" alt="Responsive image"/>
-			<img src="images/anuncios/anuncio04.jpg" class="img-responsive" alt="Responsive image"/>
-			<img src="images/anuncios/anuncio05.jpg" class="img-responsive" alt="Responsive image"/>
-			<img src="images/anuncios/anuncio06.jpg" class="img-responsive" alt="Responsive image"/>
-			<img src="images/anuncios/anuncio07.jpg" class="img-responsive" alt="Responsive image"/>
+		<div class="col-md-4 col-xs-4" id="tours-picture">
+			<img src="images/tours/Artesanias_Catarina01.png" class="img-responsive" alt="Tours"/>
+			<img src="images/tours/Hiking_Volcal_Cerro_Negro02.png" class="img-responsive" alt="Tours"/>
+			<img src="images/tours/23253.png" class="img-responsive" alt="Tours"/>
+			<img src="images/tours/Isletas02.png" class="img-responsive" alt="Tours"/>
+			<img src="images/tours/San_Juan_del_Sur01.png" class="img-responsive" alt="Tours"/>
 		</div>
-		<div class="col-md-8" id="tours-info">
+		<div class="col-md-8 col-xs-8" id="tours-info">
 
 			<h2>Daily Tours</h2>
 			
