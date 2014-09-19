@@ -30,16 +30,6 @@
 	</div>
 
 	<div id="navegacion-top" class="row">
-		<!-- <div class="col-md-5 ">
-			<div class="row">
-				<div class="col-md-3 remove-padding" >Quienes Somos</div>
-				<div class="col-md-3" >Eventos</div>
-				<div class="col-md-3" >Destinos</div>
-				<div class="col-md-3" >Contactenos</div>
-			</div>			
-		</div>
-		<div class="col-md-4"></div>
-		<div class="col-md-3">redes sociales</div> -->
 		<nav class="navbar navbar-default" role="navigation">
 			<div class="container-fluid">
 				<!-- Brand and toggle get grouped for better mobile display -->

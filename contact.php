@@ -11,6 +11,11 @@
 	<link rel="stylesheet" type="text/css" href="packages/bxslider/bxslider.css">
 	<link rel="stylesheet" type="text/css" href="css/site.css">
 
+	<!-- *** contacto *********  -->
+	<link rel="stylesheet" type="text/css" href="css/contacto.css" />
+
+  	<!-- <link rel="icon" type="image/png" href="img/icono.png" />
+ -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	<script type="text/javascript" src="packages/bootstrap/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="packages/toastr/js/toastr.min.js"></script>
@@ -30,16 +35,6 @@
 	</div>
 
 	<div id="navegacion-top" class="row">
-		<!-- <div class="col-md-5 ">
-			<div class="row">
-				<div class="col-md-3 remove-padding" >Quienes Somos</div>
-				<div class="col-md-3" >Eventos</div>
-				<div class="col-md-3" >Destinos</div>
-				<div class="col-md-3" >Contactenos</div>
-			</div>			
-		</div>
-		<div class="col-md-4"></div>
-		<div class="col-md-3">redes sociales</div> -->
 		<nav class="navbar navbar-default" role="navigation">
 			<div class="container-fluid">
 				<!-- Brand and toggle get grouped for better mobile display -->
@@ -69,9 +64,39 @@
 			</div><!-- /.container-fluid -->
 		</nav>
 	</div>
-	
-	<div class="row" id="about">
-		
+
+
+	<div class="row">
+		<div class="col-md-6">
+			<!-- **********************************************  -->
+					<section id="container">
+					<div class="container">
+					<br style="clear:both;">
+							<h4 style="text-align:left;">Contact Us</h4>
+							<BR>
+							<form name="efren-martinez" id="efren-martinez-form" method="post" action="contact.php">
+							<div id="wrapping" class="clearfix">
+								<section id="aligned">
+								<input required type="text" name="name" id="name" placeholder="Name" autocomplete="off" tabindex="1" class="txtinput">
+								<input required type="email" name="email" id="email" placeholder="E-mail" autocomplete="off" tabindex="2" class="txtinput">			
+								<input required type="tel" name="telephone" id="telephone" placeholder="Telephone" tabindex="4" class="txtinput" title="Ejemplo: 81234567 o 21234567" pattern="^[0-9]{8}$">
+								<textarea required name="message" id="message" placeholder="Message" tabindex="5" class="txtblock"></textarea>
+								</section>
+							</div>
+							<section id="buttons">
+								<input type="reset" name="reset" id="resetbtn" class="resetbtn" value="Reset">
+								<input type="submit" name="submit" id="submitbtn" class="submitbtn" tabindex="7" value="Send">
+								<br style="clear:both;">
+							</section>
+							</form>
+					        </div>
+					</section>
+			<!-- **********************************************  -->
+		</div>
+		<div class="col-md-6">
+			
+		</div>
+
 	</div>
 
 	<footer class="row" style="background-color:#14b1ff; color:white; padding:1%; margin-bottom:5px;">
