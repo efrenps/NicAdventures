@@ -72,11 +72,14 @@
 	
 	<div class="row" id="tours">
 		<div class="col-md-4 col-xs-4" id="tours-picture">
-			<img src="images/tours/Artesanias_Catarina01.png" class="img-responsive" alt="Tours"/>
+			<div id="video">
+				<object class="videoPlayer videoPlayer1" data="http://www.youtube.com/embed/0WdzIefoH4o" width="100%" height="250px">
+				    <embed class="videoPlayer videoPlayer2" src="http://www.youtube.com/embed/0WdzIefoH4o" width="100%" height="250px">
+				</object>
+			</div>
 			<img src="images/tours/Hiking_Volcal_Cerro_Negro02.png" class="img-responsive" alt="Tours"/>
 			<img src="images/tours/23253.png" class="img-responsive" alt="Tours"/>
-			<img src="images/tours/Isletas02.png" class="img-responsive" alt="Tours"/>
-			<img src="images/tours/San_Juan_del_Sur01.png" class="img-responsive" alt="Tours"/>
+			<img src="images/tours/Isletas02.png" class="img-responsive" alt="Tours"/>		
 		</div>
 		<div class="col-md-8 col-xs-8" id="tours-info">
 
@@ -424,7 +427,8 @@ Granada is a city in western Nicaragua and the capital of the Granada Department
 			      </div>
 			    </div>
 			  </div> 
-			</div>			
+			</div>		
+			 	
 			
 		</div>
 		
