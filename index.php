@@ -89,10 +89,8 @@
 		<div class="col-md-3">
 			<label>GRANADA</label>
 			<img title="Ofertas y Promociones" src='images/granada/Calles_Granada02.png' class="img-responsive" alt="Responsive image" />
-			<p>Was founded in 1524 by Francisco Hernandez de Cordoba ostensibly the first European
-			 city in mainland America. The city of Granada was not only the settlement of the conquest,
-			  but also a city registered in official records of the crown of Aragon...</p>
-			 <a href="tours.php" class="x-button">Read more</a>
+			<p>Once we get to Granada we are staying at the <a target="_blank" href="http://www.hotelelalmirante.com">Hotel Admiral</a>, after resting we will go to the Calle de la Calzada, there enjoy much entertainment as Bar-Restaurants, clubs, dances and no Nightlife order. The next morning after breakfast we will have the opportunity....</p>
+			 <a href="granada.php" class="x-button">Read more</a>
 			 <label for=""></label>
 		</div>
 		<div class="col-md-3">
@@ -100,26 +98,21 @@
 			<img title="Ofertas y Promociones" src='images/ometepe/Ometepe02.png' class="img-responsive" alt="Responsive image" />
 			<p>WOW Ometepe is definitely paradise in Nicaragua, this island are two of the most
 			 beautiful scenery in the country, this island is made up of two volcanoes, Concepción
-			  and Madera, which they can see on the way to Hotel Villa Paradise
+			  and Madera, which they can see on the way to <a target="_blank" href="http://www.villaparaiso.com.ni">Hotel Villa paradise</a>
 			  and being at the hotel... </p>
-			 <a href="tours.php" class="x-button">Read more</a>
+			 <a href="ometepe.php" class="x-button">Read more</a>
 		</div>
 		<div class="col-md-3">
 			<label>SAN JUAN DEL SUR</label>
 			<img title="Ofertas y Promociones" src='images/sanjuandelsur/San_Juan_Del_Sur02.png' class="img-responsive" alt="Responsive image" />
-			<p>Is a coastal town on the pacific ocean, it is located 87 miles south of Managua.
-			 San Juan del Sur is popular among surfers and is a vacation spot for many Nicaraguan
-			  Families and foreing tourists. San Juan del Sur was a popular resting place for gold
-			   prospectors...  </p>
-			 <a href="tours.php" class="x-button">Read more</a>
+			<p>Arriving in San Juan Del Sur we head straight to <a target="_blank" href="http://www.hotelazulsanjuan.com">Hotel Blue Pitaya</a>, arriving at the hotel we will relax a little, then we will walk to Paseo Del Rey, where there are many restaurants and bars where you can enjoy the nightlife of San Juan del Sur. The next morning you will...  </p>
+			 <a href="sanjuandelsur.php" class="x-button">Read more</a>
 		</div>
 		<div class="col-md-3">
 			<label>LEON CITY</label>
 			<img title="Ofertas y Promociones" src='images/leon/Catedral_Leon05.png' class="img-responsive" alt="Responsive image" />
-			<p>Is the second largest city in Nicaragua, it was founded by the Spaniards as Leon 
-			Santiago de los Caballeros and rivals Granada, Nicaragua, in the number of historic
-			 Spanish colonial churches, secular buildings, and private residences...</p>
-			<a href="tours.php" class="x-button">Read more</a>			
+			<p>León department is characterized by spectacular scenery, beautiful beaches, beautiful volcanoes and countless unexplored attractive destinations. In this department four volcanoes of the Cordillera de Los Maribios are located and are also beautiful...</p>
+			<a href="leon.php" class="x-button">Read more</a>			
 		</div>
 	</div>
 

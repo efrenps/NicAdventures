@@ -241,4 +241,12 @@ li span{
 
 #about{
 	padding: 10%;
+	padding-top: 2%;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.destinos{
+	text-align: justify;
+	text-justify: inter-word;
 }

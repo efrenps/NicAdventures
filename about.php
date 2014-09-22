@@ -61,7 +61,20 @@
 	</div>
 	
 	<div class="row" id="about">
-		
+		<div class="col-md-12">
+		<h2>Amazing NicAdventures</h2>
+			<p>Welcome to Amazing NicAdventures, I take this opportunity to introduce myself, I'm Nicaraguan and lived in the United States since 1980, the first time I get back to my beautiful country was in 2002, since then I started to look for opportunities to me back to live in my country. In 2006, after a vacation in Nicaragua we had a problem in the building where we were working, we ask the person responsible for the project that we continue locking the next week on this issue which he told us it was impossible, because the and his wife went on vacation next week, I was curious and I asked him where they were going and he answered me Hawaii, ended up talking about the cost of the holiday, I commented that the holiday would cost us $ 10,000 for two people with a Tour Operator. At that moment I realized that I wanted to spend, I decided to move back to Nicaragua and open a tour company to give you the chance to meet everyone, beautiful and cheap it is to have a spectacular vacation in Nicaragua. </p>
+			<p>Thanks for giving us the opportunity to create the best vacation of your life, we want them Nicadveture Amazing given the opportunity to know and enjoy your holiday to the fullest. We have 5 different cities available which offered many tourist spots in each. </p>
+			<p>
+				<li>Leon</li>
+				<li>Masaya </li>
+				<li>Granada</li>
+				<li>Ometepe Island</li>
+				<li>San Juan del Sur</li>
+			</p>
+			<p>Package includes all these cities, Leon, which is known for its colonial architecture, Masaya, known for its handmade crafts, Granada which is one of the oldest and tourist cities in Nicaragua after Granada take our boat on board a ferry, which will take us to the island of Ometepe, then move on to San Juan del Sur, where we find a small fishing village, full of lovely restaurants, bars and one of the tourist beaches of Nicaragua. </p>
+			<p>This package consists of 7 days, 6 nights, airport pass to <a target="_blank" href="http://www.hostalsanagustin.net">Hostal San Agustín</a> located in Vicky 1 ½ block down, in front of our offices in the Dental Specialty Center. If your arrival time permits, we'll give you a tour of the Puerto Salvador Allende that night, the next morning, after breakfast we will go to "León Viejo" this city was the first capital of Nicaragua. In December 2000, León Viejo was added as one of the 600 cities with more history and archaeological sites with greater importance in the history of mankind, this tour will introduce you to much of the history of Nicaragua, then move to the city Leon. In the city of Leon, visit the Cathedral of León, also known as the Cathedral Basilica of the Assumption of León, which is the largest cathedral in Central America, its construction was completed in 1870, is considered one of the most beautiful of America the Tour of the Cathedral consists of three parts, basement, inside the Cathedral and the ceiling, then visit the prestigious art Gallery Arts Centre called Ortiz Gurdian, where you can admire works of art from different artists from Europe and America, then we will visit the museum of <a target="_blank" href="http://www.rubendario.org">Ruben Dario</a>, Prince of Castilian letters, then we will enjoy a delicious lunch, to finish our lunch would give a little walk through Central Park, then we relaxed a bit in the <a target="_blank" href="http://www.posadadonablanca.com">Hotel Posada Dona Blanca</a> to recharge batteries and get ready for the night life of the city of León.</p>
+		</div>
 	</div>
 
 	<footer class="row" style="background-color:#14b1ff; color:white; padding:1%; margin-bottom:5px;">
