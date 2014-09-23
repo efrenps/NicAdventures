@@ -53,7 +53,7 @@
 					</ul>
 					
 					<ul class="nav navbar-nav navbar-right iconos">
-						<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>						
+						<li><a target="_blank" href="https://www.facebook.com/AmazingNicaraguaAdventures"><i class="fa fa-facebook-square"></i></a></li>						
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
@@ -68,8 +68,7 @@
 		<div class="col-md-8 col-xs-8 destinos" id="tours-info" style="margin-top: 5%">
 			<h2>Granada</h2>
 			<br>
-			<p>Once we get to Granada we are staying at the <a target="_blank" href="http://www.hotelelalmirante.com">Hotel Admiral</a>, after resting we will go to the Calle de la Calzada, there enjoy much entertainment as Bar-Restaurants, clubs, dances and no Nightlife order.</p>
-			<p>The next morning after breakfast we will have the opportunity to meet and visit the oldest colonial city in Central America (founded on December 8, 1524), starting with the Central Park in the car park find carriage, which we use to give a small Tour, followed visit the Cathedral of Granada, then we would spend a boat tour to the islets of Granada, which were created after the eruption of the Mombacho volcano during this tour visit Fort La Fortaleza, then enjoy a pleasant lunch on one of the islets, after this great tour around the islets we drive to the port of San Jorge in Rivas where we board a ferry to take us to the Island of Ometepe.</p>		
+			<p>Granada was founded in 1524 by Francisco Hernandez de Cordoba ostensibly the first European city in mainland America. The city of Granada was not only the settlement of the conquest, but also a city registered in official records of the crown of Aragon, and the Kingdom of Castle in spain. Granada is also known as LA GRAN SULTANA, in reflection of its Moorish and Andalusian appearance.</p>
 		</div>
 	</div>
 

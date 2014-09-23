@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Amazing Nicadventures - Leon</title>
+	<title>Amazing Nicadventures - Cerro Negro</title>
 	<link rel="stylesheet" type="text/css" href="packages/awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="packages/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="packages/bootstrap/css/summernote.css">
@@ -62,13 +62,13 @@
 	
 	<div class="row" id="tours">
 		<div class="col-md-4 col-xs-4" id="tours-picture">
-			<img src="images/leon/Catedral_Leon05.png" class="img-responsive" alt="Tours"/>
-			<img src="images/leon/Catedral_Leon04.png" class="img-responsive" alt="Tours"/>
+			<img src="images/cerronegro/Hiking_Volcal_Cerro_Negro02.png" class="img-responsive" alt="Tours"/>
+			<img src="images/cerronegro/CerroNegroHiking.png" class="img-responsive" alt="Tours"/>
 		</div>
 		<div class="col-md-8 col-xs-8 destinos" id="tours-info" style="margin-top: 5%">
-			<h2>Leon City</h2>
+			<h2>Cerro Negro</h2>
 			<br>
-			<p>Leon is the second largest city in Nicaragua, it was founded by the Spaniards as Leon Santiago de los Caballeros and rivals Granada, Nicaragua, in the number of historic Spanish colonial churches, secular buildings, and private residences.</p>
+			<p>Cerro Negro is an active volcano near Leon, its approximately 162 years old, the youngest volcano in Central America. Its last eruption was in 1999. Cerro Negro means “black hill”. The volcano is composed of black rocks, its slopes of black pebbles and gravel.</p>
 		</div>
 	</div>
 

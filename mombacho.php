@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Amazing Nicadventures - Leon</title>
+	<title>Amazing Nicadventures - The Mombacho volcano nature reserve</title>
 	<link rel="stylesheet" type="text/css" href="packages/awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="packages/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="packages/bootstrap/css/summernote.css">
@@ -62,13 +62,13 @@
 	
 	<div class="row" id="tours">
 		<div class="col-md-4 col-xs-4" id="tours-picture">
-			<img src="images/leon/Catedral_Leon05.png" class="img-responsive" alt="Tours"/>
-			<img src="images/leon/Catedral_Leon04.png" class="img-responsive" alt="Tours"/>
+			<img src="images/carpeta/image.png" class="img-responsive" alt="Tours"/>
+			<img src="images/carpeta/image.png" class="img-responsive" alt="Tours"/>
 		</div>
 		<div class="col-md-8 col-xs-8 destinos" id="tours-info" style="margin-top: 5%">
-			<h2>Leon City</h2>
+			<h2>The Mombacho volcano nature reserve</h2>
 			<br>
-			<p>Leon is the second largest city in Nicaragua, it was founded by the Spaniards as Leon Santiago de los Caballeros and rivals Granada, Nicaragua, in the number of historic Spanish colonial churches, secular buildings, and private residences.</p>
+			<p>The Mombacho volcano nature reserve it is an extinct volcano, the last eruption occurred in 1570. The highest regions of the volcano is home to a cloud forest and dwarf forest, the volcano has fantastic views of lake Nicaragua, the city of Granada and the isles of Granada.</p>
 		</div>
 	</div>
 

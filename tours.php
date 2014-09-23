@@ -63,7 +63,7 @@
 					</ul>
 					
 					<ul class="nav navbar-nav navbar-right iconos">
-						<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>						
+						<li><a target="_blank" href="https://www.facebook.com/AmazingNicaraguaAdventures"><i class="fa fa-facebook-square"></i></a></li>						
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
@@ -91,21 +91,32 @@
 			    <div class="panel-heading">
 			      <h4 class="panel-title">
 			        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-			          Managua
+			          Managua (Day tour)
 			        </a>
 			      </h4>
 			    </div>
 			    <div id="collapseOne" class="panel-collapse collapse in">
 			      <div class="panel-body">
-			      	<p class="panel-text1">Managua is the capital of Nicaragua, founded in 1819, declared the country’s 
-				      	capital in 1852. After a major earthquake in 1972 it stopped being attractive for
-				      	investors but after 40 years, the capital of Nicaragua has managed to establish
-				      	itself in the third position in the foreing direct investment (FDI) strategy
-				      	category of American cities of the future published in 2013-2014 by financial
-				      	times.
+			      	<p class="panel-text1">Pick you up from your hotel at 9 am, head to Parque Central de Managua or Central Park, take the Palacio de la Cultura tour, head to Port Salvador Allende, where you'll be able to have a delicious lunch from the many restaurants in the area, then depending on the weather and the schedule, you'll be able to take a boat tour of Lake Xolotlan. We will then drop you off at your hotel.</p>
+			      	<p class="panel-text2">Tours starting U$41.00 p/p / Departure 9 am / Duration 5 hrs./ min. 4 pax. (Meal not included).
+					</p>
+			      </div>
+			    </div>
+			  </div>
+
+			  <div class="panel panel-default">
+			    <div class="panel-heading">
+			      <h4 class="panel-title">
+			        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne-1">
+			          Managua (Night tour)
+			        </a>
+			      </h4>
+			    </div>
+			    <div id="collapseOne-1" class="panel-collapse collapse">
+			      <div class="panel-body">
+			      	<p class="panel-text1">Pick you up from your hotel at 5 pm, head to Parque Central de Managua or Central Park, then head to Port Salvador Allende, where you'll be able to have a delicious dinner from the many restaurants in the area, then depending on the weather and the schedule, you'll be able to take a boat tour of Lake Xolotlan. We will then drop you off at your hotel.
 			      	</p>
-			      	<p class="panel-text2">Day tour starting at U$ 41.00 p/p (min.4 pax) Departure 9am / Duration 5hrs.
-						Evening Tour starting at U$ 36.00 p/p (min.4 pax) Departure 5pm/Duration 4hrs.
+			      	<p class="panel-text2">Tours starting at U$36.00 p/p / Departure 5 pm / Duration 4 hrs. / min. 4 pax. (Meal not included).
 					</p>
 			      </div>
 			    </div>
@@ -115,18 +126,37 @@
 			    <div class="panel-heading">
 			      <h4 class="panel-title">
 			        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-			          Masaya volcano
+			          Masaya volcano (Day tour)
 			        </a>
 			      </h4>
 			    </div>
 			    <div id="collapseTwo" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	Masaya volcano it has an area of 54 km2, includes 2 volcanoes and 5 craters, as well as a range of evelations between 100 and 630 meters above sea level;  it’s the only volcano in the western hemisphere where you are able to drive to the rim.
+			        	Pick you up from hotel at 9 am and head to Masaya Volcano, there you will be able to admire nature at its best, there are three different walking trails tours (Coyotes, Comalito, Cuevas trails), horse back riding and picnic areas where you'll be able to relax and enjoy the scenery. We will then drop you off at your hotel after this incredible tour of Masaya Volcano National Park. 
 			        </p>
 			        <p class="panel-text2">
-			        	Day tour starting at U$ 25.00 p/p (min.4 pax) Departure 9am / Duration 4hrs.
-Nigth Tours starting at U$ 35.00 p/p (min.6 pax) Departure 3pm/Duration 6hrs.
+			        	Tours starting at U$25.00 p/p  / Departure 9 am / Duration 4 hrs. / min. 4 pax.
+			        </p>
+			      </div>
+			    </div>
+			  </div>
+
+			  			  <div class="panel panel-default">
+			    <div class="panel-heading">
+			      <h4 class="panel-title">
+			        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo-1">
+			          Masaya volcano (Night tour)
+			        </a>
+			      </h4>
+			    </div>
+			    <div id="collapseTwo-1" class="panel-collapse collapse">
+			      <div class="panel-body">
+			        <p class="panel-text1">
+			        	Pick you up from hotel at least 1 hour before night tour starts at Masaya Volcano (4 pm.), once we arrive you will take the guided tour of three of the five craters at Masaya Volcano, then you will take the guided tour of the caves, in which you will be able to see parakeets, bats, tunnels of lava and incandescence of Santiago Crater. After that amazing experience we will drop you off at your hotel.
+			        </p>
+			        <p class="panel-text2">
+			        	Tours starting at U$35.00 p/p  / Departure 3 pm / Duration 6 hrs. / min. 2 pax.
 			        </p>
 			      </div>
 			    </div>
@@ -144,10 +174,10 @@ Nigth Tours starting at U$ 35.00 p/p (min.6 pax) Departure 3pm/Duration 6hrs.
 			    <div id="collapseThree" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	The Mombacho volcano nature reserve it is an extinct volcano, the last eruption occurred in 1570. The highest regions of the volcano is home to a cloud forest and dward forest, the volcano has fantastic views of lake Nicaragua, the city of Granada and the isles of Granada.
+			        	We will pick you up from your hotel at 11:00 am and head to Mombacho Volcano Natural Reserve where you'll be able to take a tour of one of the craters,  you will go up the volcano on a 4x4 truck, the ride uphill only is an adventure by itself,  the incredible steepness of the volcano guarantees a spectacular ride. You will see coffee plantations and later on the cloud forest next to the single lane road. The views are also spectacular from here. When you arrive at the end of the road (at 1,200 mts) the temperature will probably have dropped significantly and the humidity will be high. It’s always windy, so be sure to bring an extra sweater. After the 20-30 minutes ride you will find a tourist center on the top of the volcano.  All of the craters are covered with cloud forest. This type of forest is only found on one other spot in the Pacific, and that is on the Maderas Volcano in Ometepe. On the Mombacho volcano, you can walk around one of the craters, or hike around several craters. Besides lots of different trees and plants that thrive because of the cloud forests humidity you can also observe howler and white face monkeys, as well as, deer, reptiles, birds, and insects. There are several endemic species living on the Mombacho. The Mombacho salamander is the most extreme endemic species: the little salamander can only be found on the Mombacho volcano! We will drop you off at your hotel after your extreme nature experience.
 			        </p>
 			        <p class="panel-text2">
-			        	Tour starting at U$ 37.00 p/p. Departure 9am / Duration 5hrs.
+			        	Tours starting at U$37.00 p/p  / Departure 11:00 am / Duration 5 hrs. / min. 4 pax. 
 			        </p>
 			      </div>
 			    </div>
@@ -165,10 +195,10 @@ Nigth Tours starting at U$ 35.00 p/p (min.6 pax) Departure 3pm/Duration 6hrs.
 			    <div id="collapseFour" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        Cerro Negro is an active volcano near Leon, its approximately 162 years old, the youngest volcano in Central America. Its last eruption was in 1999. Cerro Negro means “black hill”. The volcano is composed of black rocks, its slopes of black pebbles and gravel.
+			        We will pick you up from your hotel at 6 am and head to the City of Leon where we will drop you off at starting point of this magnificent tour, there you will be taken to the Cerro Negro Volcano on a truck, once at Cerro Negro they will supply you with your protective gear and a brief explanation of how to sand-board, and off you go down the volcano! then you will be dropped off at the starting point where they will give a refreshment and we will pick you up from there and drop you off at your hotel.
 			        </p>
 			        <p class="panel-text2">
-			        	Tour starting at U$ 65.00 p/p. Departure 6am / Duration aprox. 8hrs.
+			        	Tours starting at U$65.00 p/p  / Departure 6 am / Duration 8 hrs. / min. 4 pax. 
 			        </p>
 			      </div>
 			    </div>
@@ -186,10 +216,10 @@ Nigth Tours starting at U$ 35.00 p/p (min.6 pax) Departure 3pm/Duration 6hrs.
 			    <div id="collapseFive" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        Granada was founded in 1524 by Francisco Hernandez de Cordoba ostensibly the first European city in mainland America. The city of Granada was not only the settlement of the conquest, but also a city registered in official records of the crown of Aragon, and the Kingdom of Castle in spain. Granada is also known as LA GRAN SULTANA, in reflection of its Moorish and Andalusian appearance.
+			        We will pick you up from your hotel and head to the city of Granada, we will take you to the Central Park of Granada where you will be able to go back in time, this enchanting city has colonial buildings and streets, you will be able to take a tour of several ancient churches, also take a ride on a horse carriage and feel like in the 1800's. We will then drop you off back at your hotel.
 			        </p>
 			        <p class="panel-text2">
-			        Tour starting at U$ 30.00 p/p. Departure 9am / Duration aprox. 6hrs.	
+			        Tours starting at U$ 30.00 p/p  / Duration 6 hrs. / Departure 9 am / min. 4 pax. 	
 			        </p>
 			      </div>
 			    </div>
@@ -207,10 +237,10 @@ Nigth Tours starting at U$ 35.00 p/p (min.6 pax) Departure 3pm/Duration 6hrs.
 			    <div id="collapseSix" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	Leon is the second largest city in Nicaragua, it was founded by the Spaniards as Leon Santiago de los Caballeros and rivals Granada, Nicaragua, in the number of historic Spanish colonial churches, secular buildings, and private residences.
+			        	We will pick you up from your hotel and head to the city of Leon, we will take you to the city's Cathedral (Real and renowned Basilica Cathedral of the Assumption of the Blessed Virgin Mary) The Cathedral's construction lasted between 1747 and 1814 and was consecrated by Pope Pius IX in 1860. The Cathedral has maintained the status of being the largest cathedral in Central America and one of the best known in the Americas due to its distinct architecture and special cultural importance. After the Cathedral we will give you the opportunity to have lunch at one of the many restaurants in Leon, then we will take to the Art Center Oritz-Gurdian Foundation, this museum is composed of two restored, colonial buildings, each building houses different expositions of paintings, sculptures, images, and contemporary arts.The first building shows pieces of art in a time path, beginning with artistic objects from the 16th century and ending with contemporary arts. In the second building you can find more exhibits of contemporary arts. We will then head to the house of Ruben Dario, the most famous poet of Nicaragua, In 1999 the house was repaired and prepared to function as a real museum. Nowadays a visit to Rubén Darío's natal house is a great way to get to know more about this very famous and still beloved poet. We will then drop you off at your hotel after you had the opportunity to visit this beautiful city.
 			        </p>
 			        <p class="panel-text2">
-			        	Tour starting at U$ 40.00 p/p. Departure 9am / Duration aprox. 8hrs.
+			        	Tours starting at U$40.00 p/p  / Duration 8 hrs. / Departure 9 am.  Min. 4 pax.
 			        </p>
 			      </div>
 			    </div>
@@ -228,10 +258,10 @@ Nigth Tours starting at U$ 35.00 p/p (min.6 pax) Departure 3pm/Duration 6hrs.
 			    <div id="collapseSeven" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	San juan del Sur is a coastal town on the pacific ocean, it is located 87 miles south of Managua. San Juan del Sur is popular among surfers and is a vacation spot for many Nicaraguan Families and foreing tourists. San Juan del Sur was a popular resting place for gold prospectors headed to California in the 1850s.
+			        	We will pick you up from your hotel at 8 am and head to the city of San Juan del Sur, a very popular tourist city in Nicaragua where you'll be able to walk and enjoy the beautiful and enchanting fishing town, full of beautiful restaurants and bars, one of the newest cruise ships destinations in Central America. After spending the day in San Juan we will then drop you off at your hotel.
 			        </p>
 			        <p class="panel-text2">
-			        	Tour starting at U$ 45.00 p/p. Departure 8am / Duration aprox. 9hrs.
+			        	Tours starting at U$45.00 p/p  / Duration 9 hrs. / Departure 8 am,  Min. 4 pax.
 			        </p>
 			      </div>
 			    </div>
@@ -248,10 +278,10 @@ Nigth Tours starting at U$ 35.00 p/p (min.6 pax) Departure 3pm/Duration 6hrs.
 			    <div id="collapseEight" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	San Carlos is jungle, lake, river, art and history. This municipality has various attractions. Its center is the city of San Carlos, in which the visitor will find multiple places to visit. The los Guatuzos Natural reserve, situated nearby, is home to a great, diversity of plants, animals and insects. There are many tours you can take from San Carlos.
+			        	We will pick you up from your hotel and head to the city of San Carlos and drop you off there where you'll be able to choose from many different tours to Rio San Juan or Solentiname Island. 
 			        </p>
 			        <p class="panel-text2">
-			        	Transportation only to San Carlos (one way) 1-10 pax.  U$ 240.00 
+			        	Transportation to San Carlos (one way) 1 -10 pax U$240.00 (tours not included, only one way transportation) Round trip transportation available by request ).
 			        </p>
 			      </div>
 			    </div>

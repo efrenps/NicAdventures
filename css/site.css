@@ -51,7 +51,7 @@ body{
 }
 
 
-#paquetes{
+.paquetes{
 	border: 2px solid #B8B8B8; 
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
@@ -64,11 +64,11 @@ body{
 
 }
 
-#paquetes label{
+.paquetes label{
 	padding-top: 5%;
 }
 
-#paquetes p{
+.paquetes p{
 	padding-top: 10px;
 	text-align: justify;
 	text-justify: inter-word;

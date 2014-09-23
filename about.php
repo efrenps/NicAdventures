@@ -53,7 +53,7 @@
 					</ul>
 					
 					<ul class="nav navbar-nav navbar-right iconos">
-						<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>						
+						<li><a target="_blank" href="https://www.facebook.com/AmazingNicaraguaAdventures"><i class="fa fa-facebook-square"></i></a></li>						
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->

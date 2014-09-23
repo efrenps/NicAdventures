@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Amazing Nicadventures - Leon</title>
+	<title>Amazing Nicadventures - Managua City</title>
 	<link rel="stylesheet" type="text/css" href="packages/awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="packages/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="packages/bootstrap/css/summernote.css">
@@ -62,13 +62,13 @@
 	
 	<div class="row" id="tours">
 		<div class="col-md-4 col-xs-4" id="tours-picture">
-			<img src="images/leon/Catedral_Leon05.png" class="img-responsive" alt="Tours"/>
-			<img src="images/leon/Catedral_Leon04.png" class="img-responsive" alt="Tours"/>
+			<img src="images/carpeta/image.png" class="img-responsive" alt="Tours"/>
+			<img src="images/carpeta/image.png" class="img-responsive" alt="Tours"/>
 		</div>
 		<div class="col-md-8 col-xs-8 destinos" id="tours-info" style="margin-top: 5%">
-			<h2>Leon City</h2>
+			<h2>Managua City</h2>
 			<br>
-			<p>Leon is the second largest city in Nicaragua, it was founded by the Spaniards as Leon Santiago de los Caballeros and rivals Granada, Nicaragua, in the number of historic Spanish colonial churches, secular buildings, and private residences.</p>
+			<p>Managua is the capital of Nicaragua, founded in 1819, declared the country’s capital in 1852. After a major earthquake in 1972 it stopped being attractive for investors but after 40 years, the capital of Nicaragua has managed to establish itself in the third position in the foreing direct investment (FDI) strategy category of American cities of the future published in 2013-2014 by financial times.</p>
 		</div>
 	</div>
 

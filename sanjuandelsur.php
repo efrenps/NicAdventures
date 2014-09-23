@@ -53,7 +53,7 @@
 					</ul>
 					
 					<ul class="nav navbar-nav navbar-right iconos">
-						<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>						
+						<li><a target="_blank" href="https://www.facebook.com/AmazingNicaraguaAdventures"><i class="fa fa-facebook-square"></i></a></li>						
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
@@ -68,8 +68,7 @@
 		<div class="col-md-8 col-xs-8 destinos" id="tours-info" style="margin-top: 5%">
 			<h2>San Juan del Sur</h2>
 			<br>
-			<p>Arriving in San Juan Del Sur we head straight to <a target="_blank" href="http://www.hotelazulsanjuan.com">Hotel Blue Pitaya</a>, arriving at the hotel we will relax a little, then we will walk to Paseo Del Rey, where there are many restaurants and bars where you can enjoy the nightlife of San Juan del Sur. The next morning you will have the opportunity to meet the people of San Juan del Sur during the day, here in this small fishing village, tourists have a tendency to want to meet him walking down its size (tiny but nice), or those who prefer another option, take them to AmazingNicadventures Da <a target="_blank" href="http://www.daflying.com">Flying Frog</a>, here we can enjoy an exciting horse ride or Canopy Tour (not recommended for people with height phobia), finishing these activities would direct us to a of the higher parts of the bay where the statue of Christ of Mercy which has a spectacular view of the town and the bay of San Juan del Sur is located.</p>			
-			<p> Unfortunately this is the end of this amazing vacation that afternoon we go back to Managua and spend the night at the Hostal San Agustín, early in the morning to take them to the airport would collect. </p>
+			<p>San juan del Sur is a coastal town on the pacific ocean, it is located 87 miles south of Managua. San Juan del Sur is popular among surfers and is a vacation spot for many Nicaraguan Families and foreing tourists. San Juan del Sur was a popular resting place for gold prospectors headed to California in the 1850s.</p>
 		</div>
 	</div>
 

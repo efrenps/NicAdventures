@@ -63,7 +63,7 @@
 					</ul>
 					
 					<ul class="nav navbar-nav navbar-right iconos">
-						<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>						
+						<li><a target="_blank" href="https://www.facebook.com/AmazingNicaraguaAdventures"><i class="fa fa-facebook-square"></i></a></li>						
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
@@ -85,35 +85,72 @@
 		</div>
 	</div>
 
-	<div class="row" id="paquetes">
-		<div class="col-md-3">
-			<label>GRANADA</label>
-			<img title="Ofertas y Promociones" src='images/granada/Calles_Granada02.png' class="img-responsive" alt="Responsive image" />
-			<p>Once we get to Granada we are staying at the <a target="_blank" href="http://www.hotelelalmirante.com">Hotel Admiral</a>, after resting we will go to the Calle de la Calzada, there enjoy much entertainment as Bar-Restaurants, clubs, dances and no Nightlife order. The next morning after breakfast we will have the opportunity....</p>
-			 <a href="granada.php" class="x-button">Read more</a>
-			 <label for=""></label>
+	<div class="row paquetes">
+		<div class="row">
+			<div class="col-md-4">
+				<label>GRANADA</label>
+				<img title="Ofertas y Promociones" src='images/granada/Calles_Granada02.png' class="img-responsive" alt="Responsive image" />
+				<p>Granada was founded in 1524 by Francisco Hernandez de Cordoba ostensibly the first European city in mainland America. The city of Granada was not only...</p>
+				 <a href="granada.php" class="x-button">Read more</a>
+				 <label for=""></label>
+			</div>
+			<div class="col-md-4">
+				<label>OMETEPE</label>
+				<img title="Ofertas y Promociones" src='images/ometepe/Ometepe02.png' class="img-responsive" alt="Responsive image" />
+				<p>an island composed of two volcanoes, emerges from the the Cocibolca, the great Lake of Nicaragua. Joined by a thin, flat isthmus the two volcanoes shape... </p>
+				 <a href="ometepe.php" class="x-button">Read more</a>
+			</div>
+			<div class="col-md-4">
+				<label>SAN JUAN DEL SUR</label>
+				<img title="Ofertas y Promociones" src='images/sanjuandelsur/San_Juan_Del_Sur02.png' class="img-responsive" alt="Responsive image" />
+				<p>is a coastal town on the pacific ocean, it is located 87 miles south of Managua. San Juan del Sur is popular among surfers and is a vacation spot for...  </p>
+				 <a href="sanjuandelsur.php" class="x-button">Read more</a>
+			</div>						
 		</div>
-		<div class="col-md-3">
-			<label>OMETEPE</label>
-			<img title="Ofertas y Promociones" src='images/ometepe/Ometepe02.png' class="img-responsive" alt="Responsive image" />
-			<p>WOW Ometepe is definitely paradise in Nicaragua, this island are two of the most
-			 beautiful scenery in the country, this island is made up of two volcanoes, Concepción
-			  and Madera, which they can see on the way to <a target="_blank" href="http://www.villaparaiso.com.ni">Hotel Villa paradise</a>
-			  and being at the hotel... </p>
-			 <a href="ometepe.php" class="x-button">Read more</a>
+
+		<div class="row" style="margin-top:2%;">
+			<div class="col-md-4">
+				<label>THE MOMBACHO VOLCANO</label>
+				<img title="Ofertas y Promociones" src='images/leon/Catedral_Leon04.png' class="img-responsive" alt="Responsive image" />
+				<p>it is an extinct volcano, the last eruption occurred in 1570. The highest regions of the volcano is home to a cloud forest and dwarf forest, the volcano...</p>
+				 <a href="mombacho.php" class="x-button">Read more</a>
+				 <label for=""></label>
+			</div>
+			<div class="col-md-4">
+				<label>CERRO NEGRO</label>
+				<img title="Ofertas y Promociones" src='images/cerronegro/Hiking_Volcal_Cerro_Negro02.png' class="img-responsive" alt="Responsive image" />
+				<p>is an active volcano near Leon, its approximately 162 years old, the youngest volcano in Central America. Its last eruption was in 1999. Cerro Negro means... </p>
+				 <a href="cerronegro.php" class="x-button">Read more</a>
+			</div>
+			<div class="col-md-4">
+				<label>LEON CITY</label>
+				<img title="Ofertas y Promociones" src='images/leon/Catedral_Leon05.png' class="img-responsive" alt="Responsive image" />
+				<p>is the second largest city in Nicaragua, it was founded by the Spaniards as Leon Santiago de los Caballeros and rivals Granada, Nicaragua, in the number...</p>
+				<a href="leon.php" class="x-button">Read more</a>			
+			</div>						
 		</div>
-		<div class="col-md-3">
-			<label>SAN JUAN DEL SUR</label>
-			<img title="Ofertas y Promociones" src='images/sanjuandelsur/San_Juan_Del_Sur02.png' class="img-responsive" alt="Responsive image" />
-			<p>Arriving in San Juan Del Sur we head straight to <a target="_blank" href="http://www.hotelazulsanjuan.com">Hotel Blue Pitaya</a>, arriving at the hotel we will relax a little, then we will walk to Paseo Del Rey, where there are many restaurants and bars where you can enjoy the nightlife of San Juan del Sur. The next morning you will...  </p>
-			 <a href="sanjuandelsur.php" class="x-button">Read more</a>
+			<div class="col-md-4">
+				<label>MASAYA VOLCANO</label>
+				<img title="Ofertas y Promociones" src='images/masaya/Volcan_Masaya08.png' class="img-responsive" alt="Responsive image" />
+				<p>Masaya volcano has an area of 54 km2, includes 2 volcanoes and 5 craters, as well as a range of elevations between 100 and 630 meters above sea level...  </p>
+				 <a href="masayavolcano.php" class="x-button">Read more</a>
+			</div>
+			<div class="col-md-4">
+				<label>MANAGUA CITY</label>
+				<img title="Ofertas y Promociones" src='images/leon/Catedral_Leon04.png' class="img-responsive" alt="Responsive image" />
+				<p>Managua is the capital of Nicaragua, founded in 1819, declared the country’s capital in 1852. After a major earthquake in 1972 it stopped being attractive...</p>
+				<a href="managua.php" class="x-button">Read more</a>			
+			</div>
+			<div class="col-md-4">
+				<label>SAN CARLOS</label>
+				<img title="Ofertas y Promociones" src='images/leon/Catedral_Leon04.png' class="img-responsive" alt="Responsive image" />
+				<p>is jungle, lake, river, art and history. This municipality has various attractions. Its center is the city of San Carlos, in which the visitor will visit...</p>
+				<a href="sancarlos.php" class="x-button">Read more</a>			
+			</div>
+		<div>
+			
 		</div>
-		<div class="col-md-3">
-			<label>LEON CITY</label>
-			<img title="Ofertas y Promociones" src='images/leon/Catedral_Leon05.png' class="img-responsive" alt="Responsive image" />
-			<p>León department is characterized by spectacular scenery, beautiful beaches, beautiful volcanoes and countless unexplored attractive destinations. In this department four volcanoes of the Cordillera de Los Maribios are located and are also beautiful...</p>
-			<a href="leon.php" class="x-button">Read more</a>			
-		</div>
+		
 	</div>
 
 	<footer class="row" style="background-color:#14b1ff; color:white; padding:1%; margin-bottom:5px;">

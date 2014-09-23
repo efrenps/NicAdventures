@@ -53,7 +53,7 @@
 					</ul>
 					
 					<ul class="nav navbar-nav navbar-right iconos">
-						<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>						
+						<li><a target="_blank" href="https://www.facebook.com/AmazingNicaraguaAdventures"><i class="fa fa-facebook-square"></i></a></li>						
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
@@ -68,9 +68,10 @@
 		<div class="col-md-8 col-xs-8 destinos" id="tours-info" style="margin-top: 5%">
 			<h2>Ometepe</h2>
 			<br>
-			<p>WOW Ometepe is definitely paradise in Nicaragua, this island are two of the most beautiful scenery in the country, this island is made up of two volcanoes, Concepción and Madera, which they can see on the way to <a target="_blank" href="http://www.villaparaiso.com.ni">Hotel Villa paradise</a> 
-  , and being at the hotel can book tours for the next day (not book tours that interfere with the time of return to port San Jorge) then it is time to relax.</p>	
-  <p> The next day after enjoying their tours that you chose or relax on the beach we head to Ojo De Agua, the Eye Water is a swimming pool built on the edge of a natural source of water originating from volcanoes. Legend has it that the Indians said it is a source of life, it is believed that people bathe in the Ojo de Agua feel five years younger. Unfortunately after the Ojo De Agua is the time to withdraw from this paradise en route to San Juan Del Sur.</p>		
+			<p>Ometepe, an island composed of two volcanoes, emerges from the the Cocibolca, the great Lake of Nicaragua. Joined by a thin, flat isthmus the two volcanoes shape the island like an hour glass.
+			Over the northern half of Ometepe looms the Concepción, a majestic and perfectly cone-shaped active volcano, while the southern half is dominated by the extinct volcano Maderas which is swathed in a cloud forest and has a mist-shrouded lagoon in its crater.
+			</p>
+			<p>Isolated from the rest of Nicaragua by the Cocibolca, the indigenous name for the Lake of Nicaragua, Ometepe feels far away from the rest of the world. Touted as the "Oasis of Peace", the island is a mesmerizing place, entrenched in history, and full of stunning sights and activities. Past Indian inhabitants regarded it as their promised land and a sacred island. Chorotega, Nahuatl and Mayans left a multitude of pre-Columbian artifacts spread all over the island. Due to the many petroglyphs and stone idols carved into basalt boulders Ometepe is considered one of the great rock art areas of the world .</p>
 		</div>
 	</div>
 
