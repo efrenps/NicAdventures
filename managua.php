@@ -62,8 +62,8 @@
 	
 	<div class="row" id="tours">
 		<div class="col-md-4 col-xs-4" id="tours-picture">
-			<img src="images/carpeta/image.png" class="img-responsive" alt="Tours"/>
-			<img src="images/carpeta/image.png" class="img-responsive" alt="Tours"/>
+			<img src="images/managua/AntiguaCatedral.png" class="img-responsive" alt="Tours"/>
+			<img src="images/managua/Nueva_Catedral02.png" class="img-responsive" alt="Tours"/>
 		</div>
 		<div class="col-md-8 col-xs-8 destinos" id="tours-info" style="margin-top: 5%">
 			<h2>Managua City</h2>

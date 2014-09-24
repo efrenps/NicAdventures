@@ -111,7 +111,7 @@
 		<div class="row" style="margin-top:2%;">
 			<div class="col-md-4">
 				<label>THE MOMBACHO VOLCANO</label>
-				<img title="Ofertas y Promociones" src='images/leon/Catedral_Leon04.png' class="img-responsive" alt="Responsive image" />
+				<img title="Ofertas y Promociones" src='images/mombacho/mombacho2.jpg' class="img-responsive" alt="Responsive image" />
 				<p>it is an extinct volcano, the last eruption occurred in 1570. The highest regions of the volcano is home to a cloud forest and dwarf forest, the volcano...</p>
 				 <a href="mombacho.php" class="x-button">Read more</a>
 				 <label for=""></label>
@@ -137,13 +137,13 @@
 			</div>
 			<div class="col-md-4">
 				<label>MANAGUA CITY</label>
-				<img title="Ofertas y Promociones" src='images/leon/Catedral_Leon04.png' class="img-responsive" alt="Responsive image" />
+				<img title="Ofertas y Promociones" src='images/managua/AntiguaCatedral.png' class="img-responsive" alt="Responsive image" />
 				<p>Managua is the capital of Nicaragua, founded in 1819, declared the country’s capital in 1852. After a major earthquake in 1972 it stopped being attractive...</p>
 				<a href="managua.php" class="x-button">Read more</a>			
 			</div>
 			<div class="col-md-4">
 				<label>SAN CARLOS</label>
-				<img title="Ofertas y Promociones" src='images/leon/Catedral_Leon04.png' class="img-responsive" alt="Responsive image" />
+				<img title="Ofertas y Promociones" src='images/sancarlos/El_Castillo.png' class="img-responsive" alt="Responsive image" />
 				<p>is jungle, lake, river, art and history. This municipality has various attractions. Its center is the city of San Carlos, in which the visitor will visit...</p>
 				<a href="sancarlos.php" class="x-button">Read more</a>			
 			</div>

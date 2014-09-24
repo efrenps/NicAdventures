@@ -62,8 +62,8 @@
 	
 	<div class="row" id="tours">
 		<div class="col-md-4 col-xs-4" id="tours-picture">
-			<img src="images/carpeta/image.png" class="img-responsive" alt="Tours"/>
-			<img src="images/carpeta/image.png" class="img-responsive" alt="Tours"/>
+			<img src="images/sancarlos/El_Castillo02.png" class="img-responsive" alt="Tours"/>
+			<img src="images/sancarlos/El_Castillo03.png" class="img-responsive" alt="Tours"/>
 		</div>
 		<div class="col-md-8 col-xs-8 destinos" id="tours-info" style="margin-top: 5%">
 			<h2>San Carlos</h2>
