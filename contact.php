@@ -10,6 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="packages/bootflat/css/bootflat.css">
 	<link rel="stylesheet" type="text/css" href="packages/bxslider/bxslider.css">
 	<link rel="stylesheet" type="text/css" href="css/site.css">
+	<link rel="icon" type="image/png" href="images/logo.png" /
 
 	<!-- *** contacto *********  -->
 	<link rel="stylesheet" type="text/css" href="css/contacto.css" />
@@ -21,6 +22,23 @@
 	<script type="text/javascript" src="packages/toastr/js/toastr.min.js"></script>
 	<script type="text/javascript" src="packages/bxslider/bxslider.min.js"></script>
 	<script type="text/javascript" src="js/site.js"></script>
+
+	<script type="text/javascript">
+		toastr.options = {
+		  "closeButton": false,
+		  "debug": true,
+		  "positionClass": "toast-top-right",
+		  "onclick": null,
+		  "showDuration": "300",
+		  "hideDuration": "1000",
+		  "timeOut": "5000",
+		  "extendedTimeOut": "1000",
+		  "showEasing": "swing",
+		  "hideEasing": "linear",
+		  "showMethod": "fadeIn",
+		  "hideMethod": "fadeOut"
+		}
+	</script>
 </head>
 <body>
 	<img id="imageRotate1" class="rotate" src="images/rotate/Coyotepe_Masaya.png" alt="">
@@ -73,14 +91,13 @@
 					<div class="container">
 					<br style="clear:both;">
 							<h4 style="text-align:left;">Contact Us</h4>
-							<BR>
-							<form name="efren-martinez" id="efren-martinez-form" method="post" action="contact.php">
+							<form name="efren-martinez" id="efren-martinez-form" method="post" action="">
 							<div id="wrapping" class="clearfix">
 								<section id="aligned">
-								<input required type="text" name="name" id="name" placeholder="Name" autocomplete="off" tabindex="1" class="txtinput">
-								<input required type="email" name="email" id="email" placeholder="E-mail" autocomplete="off" tabindex="2" class="txtinput">			
-								<input required type="tel" name="telephone" id="telephone" placeholder="Telephone" tabindex="4" class="txtinput" title="Ejemplo: 81234567 o 21234567" pattern="^[0-9]{8}$">
-								<textarea required name="message" id="message" placeholder="Message" tabindex="5" class="txtblock"></textarea>
+								<input autocomplete="off"  required type="text" name="name" id="name" placeholder="Name" autocomplete="off" tabindex="1" class="txtinput">
+								<input autocomplete="off"  required type="email" name="email" id="email" placeholder="E-mail" autocomplete="off" tabindex="2" class="txtinput">			
+								<input autocomplete="off"  required type="tel" name="telephone" id="telephone" placeholder="Telephone" tabindex="4" class="txtinput" title="Allow only numbers" pattern="^[0-9]*$">
+								<textarea autocomplete="off"  required name="message" id="message" placeholder="Message" tabindex="5" class="txtblock"></textarea>
 								</section>
 							</div>
 							<section id="buttons">
@@ -90,11 +107,61 @@
 							</section>
 							</form>
 					        </div>
-					</section>
+					</section> 
 			<!-- **********************************************  -->
+												    <?php
+										if(isset($_POST['email'])) {
+											$email_to = "efren_ps@yahoo.es";
+											$email_subject = "Amazing Nicaragua Adventures has received a new message";
+											function died($error) {
+										        // Mensaje de error
+												echo '<p style="text-align:center;color: red;font-weight: bold;"><BR>An error has occurred while send your message.</p>';
+												//echo $error."<br /><br />";
+												die();
+											}
+										    // validacion de campos
+											if(!isset($_POST['name']) ||
+												!isset($_POST['email']) ||
+												!isset($_POST['telephone']) ||
+												!isset($_POST['message'])) {
+												died('An error has occurred while send your message.');       
+										}
+										    $name = $_POST['name']; // obligatorio
+										    $email = $_POST['email']; // obligatorio
+										    $telephone = $_POST['telephone']; // no obligatorio
+										    $message = $_POST['message']; // obligatorio
+										    $error_message = "";
+										    $email_message = "Form details below.\n\n";
+										    function clean_string($string) {
+										    	$bad = array("content-type","bcc:","to:","cc:","href");
+										    	return str_replace($bad,"",$string);
+										    }
+										    $email_message .= "Name: ".clean_string($name)."\n";
+										    $email_message .= "Email: ".clean_string($email)."\n";
+										    $email_message .= "Telephone: ".clean_string($telephone)."\n";
+										    $email_message .= "Message: ".clean_string($message)."\n";
+										// estructura del correo
+										    $headers = 'From: '.$email."\r\n".
+										    'Reply-To: '.$email."\r\n" .
+										    'X-Mailer: PHP/' . phpversion();
+										    @mail($email_to, $email_subject, $email_message, $headers);  
+
+										     echo '
+												<script type="text/javascript">
+												   toastr.success("", "Message sent successfully!");
+
+												   setTimeout(function(){location.reload();}, 4000);
+												</script>';
+										    ?>
+										    <!-- incluimos nuestro mensaje de agradecimiento -->
+										   
+										    <!-- <p style="text-align:center;color: green;font-weight: bold;"><BR>Message sent successfully.</p> -->
+										    	
+										    <?php
+										}
+									?>
 		</div>
-		<div class="col-md-6">
-			
+		<div class="col-md-6">			
 		</div>
 
 	</div>
@@ -111,9 +178,5 @@
 		</div>
 		<div class="col-md-2"></div>
 	</footer>
-
-	<script type="text/javascript">
-		
-	</script>
 </body>
 </html>

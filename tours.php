@@ -11,6 +11,8 @@
 	<link rel="stylesheet" type="text/css" href="packages/bxslider/bxslider.css">
 	<link rel="stylesheet" type="text/css" href="css/site.css">
 
+	<link rel="icon" type="image/png" href="images/logo.png" /
+
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	<script type="text/javascript" src="packages/bootstrap/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="packages/toastr/js/toastr.min.js"></script>
@@ -195,10 +197,10 @@
 			    <div id="collapseFour" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        We will pick you up from your hotel at 6 am and head to the City of Leon where we will drop you off at starting point of this magnificent tour, there you will be taken to the Cerro Negro Volcano on a truck, once at Cerro Negro they will supply you with your protective gear and a brief explanation of how to sand-board, and off you go down the volcano! then you will be dropped off at the starting point where they will give a refreshment and we will pick you up from there and drop you off at your hotel.
+			        We will pick you up from your hotel at 6 am and head to the City of Leon where we will drop you off at starting point of this magnificent tour, there you will be taken to the Cerro Negro Volcano on a truck, once at Cerro Negro they will supply you with your protective gear and a brief explanation of how to sand-board, and off you go down the volcano! then you will be dropped off at the starting point where they will give you a refreshment and we will pick you up from there and drop you off at your hotel.
 			        </p>
 			        <p class="panel-text2">
-			        	Tours starting at U$65.00 p/p  / Departure 6 am / Duration 8 hrs. / min. 4 pax. 
+			        	Tours starting at U$65.00 p/p / Departure 6 am / Duration 8 hrs. / min. 4 pax. 
 			        </p>
 			      </div>
 			    </div>
@@ -258,10 +260,13 @@
 			    <div id="collapseSeven" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
+			        	San Juan del Sur is a municipality and coastal town on the Pacific Ocean, in the Rivas department in south-west Nicaragua. It is located 140 kilometers (87 miles) south of Managua. San Juan del Sur is popular among surfers and is a vacation spot for many Nicaraguan families and foreign tourists. Its population is approximately 15,553, consisting largely of families engaged in fishing or the tourism industry and foreigners from the United States, Canada and Europe. San Juan del Sur, set aside a crescent-shaped bay, was a popular resting place for gold prospectors headed to California in the 1850s. Correspondingly, San Juan del Sur served as a hub for Cornelius Vanderbilt Lines. A statue of the Christ of the Mercy sits above town on the northern end of the bay. The town is near the site of the filming of Survivor: Nicaragua and Survivor: Redemption Island. The seasons aired in 2010 and 2011 respectively. The upcoming Survivor season Survivor: San Juan del Sur will also be filmed there. 
+			        </p>
+			        <p class="panel-text1">
 			        	We will pick you up from your hotel at 8 am and head to the city of San Juan del Sur, a very popular tourist city in Nicaragua where you'll be able to walk and enjoy the beautiful and enchanting fishing town, full of beautiful restaurants and bars, one of the newest cruise ships destinations in Central America. After spending the day in San Juan we will then drop you off at your hotel.
 			        </p>
 			        <p class="panel-text2">
-			        	Tours starting at U$45.00 p/p  / Duration 9 hrs. / Departure 8 am,  Min. 4 pax.
+			        	Tours starting at U$45.00 p/p / Duration 9 hrs. / Departure 8 am, Min. 4 pax.
 			        </p>
 			      </div>
 			    </div>
@@ -325,10 +330,10 @@
 			    <div id="collapseTen" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	We will pick you up from your hotel and head to Granada for a city tour and boat tour of the Granada Islets, These are a group of 365 small islands scattered about the Asese peninsula. The islets are of volcanic origin, they were formed when the Mombacho Volcano blew much of its cone into the lake thousands of years ago, thereby creating the archipelago. Most of islets are covered with vegetation and rich with bird life. Many of the islets are occupied. Some are privately owned and hold homes or vacation houses. Then we will head to Masaya Volcano for an incredible adventure, the main area of interest here is the massive Santiago crater that was been created between the Nindiri and Masaya volcanoes. Eruptions took place frequently during the 1900's until the crater eventually collapsed in 1985. The result is bellowing sulphurous gases and the sound of thunderous lava flows rocketing beneath the crater hole. The tour starts with a visit to the cross (La Cruz de Bobadilla) overlooking the volcano and the surroundings. Next you see the magnificent Green Parakeets that return to the volcano every night to roost. These birds have somehow become adapted to the sulphuric fumes expelled from the volcano and actually live within the crater. You also observe a large number of bats departing their caves, another great natural spectacle, then proceed to an underground tunnel that has been formed by streams of lava. Equipped with flashlight and helmet, you can enter the tunnel and observe the interesting rock formations. The trip ends with a visit to a viewpoint that provides the opportunity to look inside the crater mouth of the volcano, observing the glowing lava. We will then drof you off at your hotel. 
+			        	We will pick you up from your hotel and head to Granada for a city tour and boat tour of the Granada Islets, These are a group of 365 small islands scattered about the Asese peninsula. The islets are of volcanic origin, they were formed when the Mombacho Volcano blew much of its cone into the lake thousands of years ago, thereby creating the archipelago. Most of islets are covered with vegetation and rich with bird life. Many of the islets are occupied. Some are privately owned and hold homes or vacation houses. Then we will head to Masaya Volcano for an incredible adventure, the main area of interest here is the massive Santiago crater that was been created between the Nindiri and Masaya volcanoes. Eruptions took place frequently during the 1900's until the crater eventually collapsed in 1985. The result is bellowing sulphurous gases and the sound of thunderous lava flows rocketing beneath the crater hole. The tour starts with a visit to the cross (La Cruz de Bobadilla) overlooking the volcano and the surroundings. Next you see the magnificent Green Parakeets that return to the volcano every night to roost. These birds have somehow become adapted to the sulphuric fumes expelled from the volcano and actually live within the crater. You also observe a large number of bats departing their caves, another great natural spectacle, then proceed to an underground tunnel that has formed by streams of lava. Equipped with flashlight and helmet, you can enter the tunnel and observe the interesting rock formations. The trip ends with a visit to a viewpoint that provides the opportunity to look inside the crater mouth of the volcano, observing the glowing lava. We will then drof you off at your hotel.
 			        </p>
 			        <p class="panel-text2">
-			        	Tours starting at U$40.00 p/p, Duration 10 hrs. / Departure 9 am. 
+			        	Tours starting at U$40.00 p/p, Duration 10 hrs. / Departure 9 am.
 			        </p>
 			      </div>
 			    </div>
@@ -367,9 +372,7 @@
 			    <div id="collapseTwelve" class="panel-collapse collapse">
 			      <div class="panel-body">
 			        <p class="panel-text1">
-			        	We will pick you up from your hotel and head to Granada for a city tour, 
-Granada is a city in western Nicaragua and the capital of the Granada Department. With an estimated population of 117,569 (2007),[1] it is Nicaragua's sixth most populous city. Granada is historically one of Nicaragua's most important cities, economically and politically. It has a rich colonial heritage, seen in its architecture and structure. Granada was founded in 1524 by Francisco Hernández de Córdoba, ostensibly the first European city in mainland America. Unlike other cities that claim the same distinction, the city of Granada was not only the settlement of the conquest, but also a city registered in official records of the Crown of Aragon, and the Kingdom of Castile in Spain. Granada is also known as La Gran Sultana, in reflection of its Moorish and Andalusian appearance, unlike its sister city of León and historical rival, which displays Castilian trends. It was named by Hernández de Córdoba after the ancient Spanish city of Granada. This was done in honor of the defeat of the last Moorish stronghold, which had been Spanish Granada, by the Catholic King and Queen of Spain. Granada, Nicaragua was historically the sister capital in Central America to Antigua, Guatemala. During the colonial period, Granada maintained a flourishing level of commerce with ports on the Atlantic Ocean, through Lake Nicaragua (a.k.a. Cocibolca) and the San Juan River. After the city tour of Granada we will take a tour of the Granada Islets, these are a group of 365 small islands scattered about the Asese peninsula. The islets are of volcanic origin, they were formed when the Mombacho Volcano blew much of its cone into the lake thousands of years ago, thereby creating the archipelago. Most of islets are covered with vegetation and rich with bird life. Many of the islets are occupied. Some are privately owned and hold homes or vacation houses.
-
+			        	We will pick you up from your hotel and head to Granada for a city tour, Granada is a city in western Nicaragua and the capital of the Granada Department. With an estimated population of 117,569 (2007), it is Nicaragua's sixth most populous city. Granada is historically one of Nicaragua's most important cities, economically and politically. It has a rich colonial heritage, seen in its architecture and structure. Granada was founded in 1524 by Francisco Hernández de Córdoba, ostensibly the first European city in mainland America. Unlike other cities that claim the same distinction, the city of Granada was not only the settlement of the conquest, but also a city registered in official records of the Crown of Aragon, and the Kingdom of Castle in Spain. Granada is also known as La Gran Sultana, in reflection of its Moorish and Andalusian appearance, unlike its sister city of León and historical rival, which displays Castilian trends. It was named by Hernández de Córdoba after the ancient Spanish city of Granada. This was done in honor of the defeat of the last Moorish stronghold, which had been Spanish Granada, by the Catholic King and Queen of Spain. Granada, Nicaragua was historically the sister capital in Central America to Antigua, Guatemala. During the colonial period, Granada maintained a flourishing level of commerce with ports on the Atlantic Ocean, through Lake Nicaragua (a.k.a. Cocibolca) and the San Juan River. After the city tour of Granada we will take a tour of the Granada Islets, these are a group of 365 small islands scattered about the Asese peninsula. The islets are of volcanic origin, they were formed when the Mombacho Volcano blew much of its cone into the lake thousands of years ago, thereby creating the archipelago. Most of islets are covered with vegetation and rich with bird life. Many of the islets are occupied. Some are privately owned and hold homes or vacation houses.
 			        </p>
 			        <p class="panel-text2">
 			        	Tours starting at U$35.00 p/p / Duration 7 hrs. / Departure 9 am.
@@ -399,7 +402,7 @@ Granada is a city in western Nicaragua and the capital of the Granada Department
 						<li><span>Day 7:</span> Depart Nicaragua.</li>
 			        </p>
 			        <p class="panel-text2">
-			        	Tour starting at U$998.50 p/p based on double occupancy (min.2 pax) / Includes: Hotel, breakfast, transportation, tour entrances, snacks. 
+			        	Tour starting at U$998.50 p/p based on double occupancy (min.2 pax) / Includes: Hotel, breakfast, transportation, tour entrances, snacks.
 			        </p>
 			      </div>
 			    </div>
@@ -447,13 +450,7 @@ Granada is a city in western Nicaragua and the capital of the Granada Department
 			    </div>
 			    <div id="collapseFifhteen" class="panel-collapse collapse">
 			      <div class="panel-body">
-			      	<p>We can offer you many dental packages with one of the most respect clinics in managua,
-			 Centro Dental de Especialidades, ask for your free dental check up and depending on
-			  the treatment needed we will prepare a customized tour just for you, if you´re only 
-			  interested in a dental treatment, we can offer up to 30% off with the clinic,
-			   if you need more information about the clinic, 
-			   please visit www.sonrisasespectaculares.com or Facebook as Centro Dental de
-			    Especialidades.</p>
+			      	<p>We can offer you many dental packages with one of the most respect clinics in Managua, Centro Dental de Especialidades, ask for your free dental check up and depending on the treatment needed we will prepare a customized tour just for you, if you´re only interested in a dental treatment, we can offer up to 30% off with the clinic, if you need more information about the clinic, please visit <a target="_blank" href="http://www.sonrisasespectaculares.com">www.sonrisasespectaculares.com</a>  or Facebook as <a target="_blank" href="https://www.facebook.com/centrodentalesp">Centro Dental de Especialidades</a>.</p>
 			      </div>
 			    </div>
 			  </div> 
