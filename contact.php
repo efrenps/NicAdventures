@@ -111,7 +111,7 @@
 			<!-- **********************************************  -->
 												    <?php
 										if(isset($_POST['email'])) {
-											$email_to = "efren_ps@yahoo.es";
+											$email_to = "amazingnicadventures@gmail.com";
 											$email_subject = "Amazing Nicaragua Adventures has received a new message";
 											function died($error) {
 										        // Mensaje de error
